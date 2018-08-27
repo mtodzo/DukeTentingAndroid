@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DukeTenting</string>
+    <string name="edit_message">Enter a username</string>
+    <string name="button_login">Log in</string>
+    <string name="password_text">Enter Password</string>
+    <string name="button_newAcct">Create Account</string>
+</resources>

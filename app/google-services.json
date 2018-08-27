@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "2058870096",
+    "firebase_url": "https://duketenting-ced2b.firebaseio.com",
+    "project_id": "duketenting-ced2b",
+    "storage_bucket": "duketenting-ced2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2058870096:android:987eb0078b13e21e",
+        "android_client_info": {
+          "package_name": "com.android.duketenting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2058870096-bfvm5j95cj8drdpt53ir7ir7nhed5c9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRC3ISPhMYYqsIuxBCpg4u3oLi0krQzxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
