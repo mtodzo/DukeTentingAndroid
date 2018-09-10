@@ -1,5 +1,6 @@
 package com.android.duketenting;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -109,5 +110,10 @@ public class LoginScreen extends AppCompatActivity {
         String key = myRef.child("Users").push().getKey();
         myRef.child("Users").child(key).setValue(newUser);
         newUser.setID(key);
+    }
+
+    public void toAssignmentSchedule(View view){
+        Intent intent = new Intent(this, AssignmentSchedule.class);
+        startActivity(intent);
     }
 }
